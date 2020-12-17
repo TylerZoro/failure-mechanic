@@ -15,8 +15,8 @@ When you create your Hidden Saurian, choose a common
 [Ancestry](https://2e.aonprd.com/Ancestries.aspx) of medium
 size. You gain:
 
-<div class="pf2 feat">
-
+{:.pf2}
+{:.feat}
 #### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
 
 **Frequency** a number of times per day equal to your level
@@ -36,8 +36,6 @@ each time.
 
 The appearance of a given Hidden Saurian is always the same in their
 mimicked form and is unique to a given individual.
-
-</div>
 
 ### Additional Ancestry Feats
 
