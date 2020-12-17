@@ -85,7 +85,7 @@ h4.pf2.feat {
     font-size: 1.3em;
     font-weight: bold;
     color: #1B1007;
-    margin: 1em 0 0.8em 4em;
+    margin: 1em 0 0.8em;
 }
 
 .pf2.feat .level {
@@ -97,5 +97,6 @@ p.pf2.feat {
 }
 
 .one-action {
-    content: url(../assets/images/one-action.png);
+    height: 1.2em;
+    content: url(../images/OneAction.png);
 }
