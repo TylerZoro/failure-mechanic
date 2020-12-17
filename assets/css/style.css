@@ -514,7 +514,7 @@ body {
     color: #f0e7d5;
     font-weight: normal;
     background: #252525;
-    background-image: url('assets/images/background.png')
+    background-image: url('../images/background.png')
     background-attachment: fixed !important;
     background: linear_gradient(#2a2a29, #1c1c1c)
 }
