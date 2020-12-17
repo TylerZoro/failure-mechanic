@@ -82,11 +82,16 @@ section .credits {
 
 h4.pf2.feat {
     font-variant: small-caps;
-    background-color: #64542f;
     font-size: 1.3em;
     font-weight: bold;
-    color: #1B1007;
     margin: 1em 0 0.8em 20px;
+    background-color: #522e2c;
+    color: #cbc18f;
+    padding: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+
 }
 
 .pf2.feat .level {
