@@ -17,7 +17,7 @@ size. You gain:
 
 {:.pf2}
 {:.feat}
-#### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
+#### [Single Action] Mimic Ancestry (Chosen Ancestry) <span class="level">Feat 1</span>
 
 {:.pf2}
 {:.feat}
