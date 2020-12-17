@@ -17,7 +17,7 @@ size. You gain:
 
 {:.pf2}
 {:.feat}
-#### [Single Action] Mimic Ancestry (Chosen Ancestry) <span class="level">Feat 1</span>
+#### <span class="one-action">[Single Action]</span> Mimic Ancestry (Chosen Ancestry) <span class="level">Feat 1</span>
 
 {:.pf2}
 {:.feat}
@@ -51,61 +51,73 @@ mimicked form and is unique to a given individual.
 
 ### Additional Ancestry Feats
 
-<div class="pf2 feat">
+{:.pf2}
+{:.feat}
+#### Flexible Mimic <span class="level">Feat 5</span>
 
-#### Flexible Mimic Feat 5
-
+{:.pf2}
+{:.feat}
 **Prerequisites** Mimic Ancestry
 
+{:.pf2}
+{:.feat}
 Your **Mimic Ancesry** ability is more flexible and can take on more than one
 appearance.
 
+{:.pf2}
+{:.feat}
 If you attempt to use the [Impersonate](https://2e.aonprd.com/Actions.aspx?ID=46)
 action to appear as a specific person using
 [Deception](https://2e.aonprd.com/Skills.aspx?ID=5)
 while transformed, then you do not require
 a disguise kit and gain a +2 bonus on the check.
 
+{:.pf2}
+{:.feat}
 Changing appearance requires you to use your **Mimic Ancestry** ability
 and thus requires that you have an available use-per-day
 remaining.
 
-</div>
+{:.pf2}
+{:.feat}
+#### Uncommon Mimic <span class="level">Feat 9</span>
 
-<div class="pf2 feat">
-
-#### Uncommon Mimic Feat 9
-
+{:.pf2}
+{:.feat}
 **Prerequisites** Mimic Ancestry
 
+{:.pf2}
+{:.feat}
 Select an uncommon Ancestry. You gain an additional **Mimic Ancestry**
 that allows you to transform into your newly chosen target Ancestry. If you have
 **Flexible Mimic** you may choose Lizardfolk as the target Ancestry.
 
-</div>
+{:.pf2}
+{:.feat}
+#### Mimics of Unusual Size <span class="level">Feat 13</span>
 
-<div class="pf2 feat">
-
-#### Mimics of Unusual Size Feat 13
-
+{:.pf2}
+{:.feat}
 **Prerequisites** Mimic Ancestry
 
+{:.pf2}
+{:.feat}
 Select a common Ancestry of small or large size. You
 gain an additional **Mimic Ancestry** that allows you to transform into your
 newly chosen target Ancestry. If you have **Uncommon Mimic** then you may
 choose an uncommon small or large Ancestry.
 
-</div>
+{:.pf2}
+{:.feat}
+#### Perfect Mimic <span class="level">Feat 13</span>
 
-<div class="pf2 feat">
-
-#### Perfect Mimic Feat 13
-
+{:.pf2}
+{:.feat}
 **Prerequisites** Mimic Ancestry
 
+{:.pf2}
+{:.feat}
 When you take on the form of a given Ancestry, you emulate more
 than just appearance. You *become that Ancestry*. Temporarily gain
 one of the Ability Boosts of that Ancestry when transforming.
 This boost is lost when you end the transformation.
-
-</div>
