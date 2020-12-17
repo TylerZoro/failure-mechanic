@@ -13,7 +13,7 @@ defensive trait: the ability to assume a common form.
 When you create your Hidden Saurian, choose a common Ancestry of medium
 size. You gain:
 
-[Single Action] **Mimic Ancestry (Chosen Ancestry)** Feat 1
+#### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
 
 **Frequency** a number of times per day equal to your level
 
@@ -35,7 +35,7 @@ mimicked form and is unique to a given individual.
 
 ### Additional Ancestry Feats
 
-**Flexible Mimic** Feat 5
+#### Flexible Mimic Feat 5
 
 **Prerequisites** Mimic Ancestry
 
@@ -52,9 +52,7 @@ Changing appearance requires you to use your **Mimic Ancestry** ability
 and thus requires that you have an available use-per-day
 remaining.
 
-----
-
-**Uncommon Mimic** Feat 9
+#### Uncommon Mimic Feat 9
 
 **Prerequisites** Mimic Ancestry
 
@@ -62,9 +60,7 @@ Select an uncommon Ancestry. You gain an additional **Mimic Ancestry**
 that allows you to transform into your newly chosen target Ancestry. If you have
 **Flexible Mimic** you may choose Lizardfolk as the target Ancestry.
 
-----
-
-**Mimics of Unusual Size** Feat 13
+#### Mimics of Unusual Size Feat 13
 
 **Prerequisites** Mimic Ancestry
 
@@ -73,9 +69,7 @@ gain an additional **Mimic Ancestry** that allows you to transform into your
 newly chosen target Ancestry. If you have **Uncommon Mimic** then you may
 choose an uncommon small or large Ancestry.
 
-----
-
-**Perfect Mimic** Feat 13
+#### Perfect Mimic Feat 13
 
 **Prerequisites** Mimic Ancestry
 
