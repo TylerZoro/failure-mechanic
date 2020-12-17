@@ -66,7 +66,16 @@ section #title p {
     font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-section #title .credits {
+section #footer .credits {
     font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
+    font-size: 11px;
+    &.left {
+        float: left;
+    }
+
+    &.right {
+        float: right;
+    }
+
 }
