@@ -16,6 +16,7 @@ When you create your Hidden Saurian, choose a common
 size. You gain:
 
 <div class="pf2 feat">
+
 #### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
 
 **Frequency** a number of times per day equal to your level
@@ -35,11 +36,13 @@ each time.
 
 The appearance of a given Hidden Saurian is always the same in their
 mimicked form and is unique to a given individual.
+
 </div>
 
 ### Additional Ancestry Feats
 
 <div class="pf2 feat">
+
 #### Flexible Mimic Feat 5
 
 **Prerequisites** Mimic Ancestry
@@ -56,9 +59,11 @@ a disguise kit and gain a +2 bonus on the check.
 Changing appearance requires you to use your **Mimic Ancestry** ability
 and thus requires that you have an available use-per-day
 remaining.
+
 </div>
 
 <div class="pf2 feat">
+
 #### Uncommon Mimic Feat 9
 
 **Prerequisites** Mimic Ancestry
@@ -66,9 +71,11 @@ remaining.
 Select an uncommon Ancestry. You gain an additional **Mimic Ancestry**
 that allows you to transform into your newly chosen target Ancestry. If you have
 **Flexible Mimic** you may choose Lizardfolk as the target Ancestry.
+
 </div>
 
 <div class="pf2 feat">
+
 #### Mimics of Unusual Size Feat 13
 
 **Prerequisites** Mimic Ancestry
@@ -77,9 +84,11 @@ Select a common Ancestry of small or large size. You
 gain an additional **Mimic Ancestry** that allows you to transform into your
 newly chosen target Ancestry. If you have **Uncommon Mimic** then you may
 choose an uncommon small or large Ancestry.
+
 </div>
 
 <div class="pf2 feat">
+
 #### Perfect Mimic Feat 13
 
 **Prerequisites** Mimic Ancestry
@@ -88,4 +97,5 @@ When you take on the form of a given Ancestry, you emulate more
 than just appearance. You *become that Ancestry*. Temporarily gain
 one of the Ability Boosts of that Ancestry when transforming.
 This boost is lost when you end the transformation.
+
 </div>
