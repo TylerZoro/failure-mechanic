@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /where-were-going.html
+---
+
 Time of failure: 2020-12-16
 
 ## Well, we don't know where we're going
