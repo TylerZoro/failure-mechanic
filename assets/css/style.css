@@ -513,7 +513,8 @@ body {
     font: 14px/1.5 "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f0e7d5;
     font-weight: normal;
-    background: linear-gradient(to right, #000000, 80%, #202020);
+    /*background: linear-gradient(to right, #000000, 80%, #202020);*/
+    background: #101010;
     background-image: url(../images/background.png);
     background-repeat: repeat-y;
 }
