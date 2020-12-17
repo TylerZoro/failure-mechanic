@@ -2,7 +2,8 @@
 ## The Hidden Saurian Heritage for Lizardfolk in Pathfinder 2e
 
 Hidden Saurians were once widespread as slaves engineered from multiple
-Lizardfok Heritages by the Serpentfolk empires of old to perform acts
+[Lizardfok](https://2e.aonprd.com/Ancestries.aspx?ID=15)
+Heritages by the Serpentfolk empires of old to perform acts
 of brute strength. Only isolated pockets of this once common race are
 found today, deep in the jungles of Garund and a few other isolated but
 remote locations.
@@ -10,7 +11,8 @@ remote locations.
 Hunted by humans and other races of Golarion, they developed a unique
 defensive trait: the ability to assume a common form.
 
-When you create your Hidden Saurian, choose a common Ancestry of medium
+When you create your Hidden Saurian, choose a common
+[Ancestry](https://2e.aonprd.com/Ancestries.aspx) of medium
 size. You gain:
 
 #### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
