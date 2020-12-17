@@ -19,21 +19,33 @@ size. You gain:
 {:.feat}
 #### [Single Action] Mimic Ancestry (Chosen Ancestry) Feat 1
 
+{:.pf2}
+{:.feat}
 **Frequency** a number of times per day equal to your level
 
+{:.pf2}
+{:.feat}
 **Duration** 1 hour per level
 
+{:.pf2}
+{:.feat}
 **Prerequisites** Hidden Saurian Heritage
 
+{:.pf2}
+{:.feat}
 You may
 transform yourself into a member of your chosen Ancestry by altering your
 coloration, height, the smoothness of your scales, and even retracting your
 tail and snout. The head scales of the Hidden Saurians have even adapted to
 transform into something that looks like stiff hair.
 
+{:.pf2}
+{:.feat}
 You may choose this feat more than once, selecting a new Ancestry
 each time.
 
+{:.pf2}
+{:.feat}
 The appearance of a given Hidden Saurian is always the same in their
 mimicked form and is unique to a given individual.
 
