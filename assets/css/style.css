@@ -726,7 +726,7 @@ dt {
 }
 
 #header nav li.fork {
-    display: hide;
+    display: none;
     float: left;
     margin-left: 0px
 }
