@@ -2,7 +2,7 @@
 ## The Hidden Saurian Heritage for Lizardfolk in Pathfinder 2e
 
 Hidden Saurians were once widespread as slaves engineered from multiple
-[Lizardfok](https://2e.aonprd.com/Ancestries.aspx?ID=15)
+[Lizardfolk](https://2e.aonprd.com/Ancestries.aspx?ID=15)
 Heritages by the Serpentfolk empires of old to perform acts
 of brute strength. Only isolated pockets of this once common race are
 found today, deep in the jungles of Garund and a few other isolated but
